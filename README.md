@@ -34,7 +34,7 @@ This is a modern **React-Vite** application for an **Electronics Repair Booking 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/shreekant17/electronics-repair-booking.git
+   git clone https://github.com/2faced0w0/repair_ninja.git
    cd electronics-repair-booking
    ```
 2. Install dependencies:
